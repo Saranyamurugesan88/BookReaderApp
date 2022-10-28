@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.ayesha.bookreader'
+    namespace 'com.saranya.bookreader'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.ayesha.bookreader"
+        applicationId "com.saranya.bookreader"
         minSdk 29
         targetSdk 32
         versionCode 1
